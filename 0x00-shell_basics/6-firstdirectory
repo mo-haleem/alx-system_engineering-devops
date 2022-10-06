@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdtemp my_first_directory
